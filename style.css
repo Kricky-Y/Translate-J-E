@@ -1,0 +1,24 @@
+main {
+  width: 200px;
+  height: 150px;
+  margin: 50px;
+  border: 2px dashed #3b3b4063;
+  text-align: center;
+  background: #c5e8e7;
+}
+
+p {
+  font-size: 26px;
+  margin-bottom: 30px;
+}
+
+button {
+  all: unset;
+  width: 70px;
+  height: 28px;
+  border: 1px solid #0b0b0b;
+  border-radius: 8px;
+  padding: 2px 5px;
+  background-color: #8df09c;
+  cursor: pointer;
+}
